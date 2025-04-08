@@ -14,7 +14,7 @@
 
 📫 Como me encontrar:
 - E-mail: danielhp.henriquepereira@gmail.com
-[LinkedIn](https://www.linkedin.com/in/danielhenriquep/)
+- [LinkedIn](https://www.linkedin.com/in/danielhenriquep/)
 - [Github](https://github.com/danlhp)
 
 ⚙️ Habilidades:
